@@ -1,7 +1,7 @@
-# mern-ecommerce
+# Edwin Villanueva II Portfolio
 
-## A project in IT 313
-### Basic ecommerce app with MERN stack
+## A project in IT 323
+### Portfolio Website
 ### Edwin Villanueva II
 
 ## Screenshot

@@ -1,8 +1,6 @@
 # Edwin Villanueva II Portfolio
 
 ## A project in IT 323
-### Portfolio Website
-### Edwin Villanueva II
 
 ## Screenshot
 

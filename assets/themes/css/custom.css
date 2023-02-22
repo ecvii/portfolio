@@ -1,0 +1,18 @@
+
+
+.services button {background: none; border: none; font-weight:600;}
+
+.services .box { min-height: 350px; }
+
+#frm_contact input.error::placeholder,
+#frm_contact textarea.error::placeholder{
+	  color:#e6e6e6 !important;
+}
+
+#frm_contact input.error,
+#frm_contact textarea.error{
+	  background:#ff4d4d;
+	  border-color:red;
+}
+
+.navbar img { max-width: 200px;}

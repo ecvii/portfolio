@@ -1,0 +1,371 @@
+/* ----------------------------------------------------
+Theme Name:Cortex vCard - HTML Template
+Version:1.5
+Author:Kiswa Solutions
+------------------------------------------------------- */
+
+/* ======================================================
+TABLE OF CONTENTS
+====================================================== */
+
+/* 
+
+1.0: Settings 
+1.1: Sidebar-left
+1.2: Resume
+1.3: Skills
+1.4: Services
+1.5: Portfolio
+1.6: Testimonials
+1.7: Contact
+1.8: Pricing
+1.9: Sidenav
+
+*/
+
+/* ====================================================
+ 1.0: Settings 
+====================================================== */
+
+.btn, .btn:hover, body {
+    color: #d5d9dd;
+}
+
+.form-control:focus {
+    color: #d5d9dd;
+    background-color: #000000;
+}
+
+.line-border {
+    background-image: -webkit-gradient(linear, left top, right top, color-stop(30%, transparent), color-stop(30%, #666666));
+    background-image: linear-gradient(to right, transparent 30%, #666666 30%);
+}
+
+/* Accent Colors or Primary Colors For WebPage */
+
+.primary-color {
+    color: #054d32;
+}
+
+.primary-color a {
+    color: #054d32;
+}
+
+.primary-color .hover {
+    color: #093f2b;
+}
+
+.primary-colorh:hover {
+    color: #093f2b;
+}
+
+.primary-colorh .hover:hover {
+    color: #093f2b !important;
+}
+
+/* Background Colors */
+
+.bg-primary-color {
+    background-color: #054d32;
+}
+
+.bg-primary-colorh:hover {
+    background-color: #093f2b;
+}
+
+.bg-primary-colorhb:hover {
+    background: #093f2b;
+    color: #ffffff;
+}
+
+.bg-primary-colorh:hover a {
+    background-color: #093f2b;
+}
+
+/* Border On Hover */
+
+.bg-primary-borderh:hover {
+    background-color: unset;
+    border: 1px solid #093f2b;
+}
+
+/* Active Color for Whole Page */
+
+.active {
+    color: #054d32 !important;
+}
+
+.bg-active {
+    background-color: #054d32 !important;
+}
+
+/* Border Colors */
+
+.primary-border {
+    border-color: #054d32 !important;
+}
+
+.primary-border-e {
+    border-color: #333333 !important;
+}
+
+.primary-border-eh:hover {
+    border-color: #093f2b !important;
+}
+
+.primary-border-eh:focus.form-control {
+    border-color: #093f2b !important;
+}
+
+/* Colors On Accent Background */
+
+.on-bg-color {
+    color: #ffffff !important;
+}
+
+.on-bg-colorh:hover {
+    color: #ffffff !important;
+}
+
+/* Colors For WebPage */
+.text-white-persist a,
+.text-white-persist{color: #ffffff;}
+
+.text-white-persist-e{color: #e6e6e6;}
+
+
+.text-white {
+    color: #000000 !important;
+}
+
+.text-white a {
+    color: #000000;
+}
+
+.text-white-e {
+    color: #262626;
+}
+
+.text-white-e a {
+    color: #262626;
+}
+
+.text-white-c {
+    color: rgba(51, 51, 51, 0.7);
+}
+
+.bg-white {
+    background-color: #111111 !important;
+}
+
+.bg-white-e {
+    background-color: #1e1e1e;
+}
+
+.bg-white-c li.bg-c, .bg-white-c {
+    background-color: #333333;
+}
+
+.bg-white-cl li.bg-c {
+    background-color: #333333;
+}
+
+.bg-gray {
+    background-color: #757575;
+    color: #000000;
+}
+
+.bg-dark {
+    background-color: #c9cdd9 !important;
+}
+
+.text-black a, .text-black {
+    color: #ffffff;
+}
+
+.text-black-3 {
+    color: #cccccc;
+}
+
+.text-black-5 {
+    color: #a9a9a9;
+}
+
+.text-black-7 {
+    color: #777777;
+}
+
+.bg-black {
+    background-color: #999999 !important;
+}
+
+.bg-blackhe a:hover, .bg-blackh {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.bg-black-9 {
+    background-color: #555555;
+}
+
+.bg-overlay:after {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.bg-overlay-dark:after {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+/* ====================================================
+ 1.2: Sidebar-left
+====================================================== */
+
+.logo {
+    color: white;
+    background-color: #054d321a;
+}
+
+.logo:after {
+    background-color: #054d32;
+}
+
+.sidebar-left .nav-tabs .nav-link.active {
+    color: #ffffff !important;
+    background-color: #000000 !important;
+}
+
+@media(max-width:768px) {
+    .bg-overlay-page {
+        background-color: rgba(153, 153, 153, 0.7);
+    }
+}
+
+/* ====================================================
+1.2: Resume
+====================================================== */
+
+.resume .resume-details .resume-box {
+    border-right: 3px solid #054d32;
+}
+
+.resume .nav-tabs .nav-link.active:hover {
+    color: #000;
+}
+
+.resume .resume-details .resume-box:before {
+    background-color: #054d32;
+}
+
+.resume .resume-details .circle:before {
+    background-color: #054d32;
+}
+
+.resume .resume-details .circle:after {
+    background-color: #054d32;
+}
+
+/* ====================================================
+1.3: Skills
+====================================================== */
+
+.line-skills-border {
+    background-image: -webkit-gradient(linear, left top, right top, color-stop(30%, transparent), color-stop(30%, #054d32));
+    background-image: linear-gradient(to right, transparent 30%, #054d32 30%);
+}
+
+/* ====================================================
+1.4: Services
+====================================================== */
+
+/* width */
+
+inner-box::-webkit-scrollbar, .box-bg::-webkit-scrollbar {
+    width: 2px;
+}
+
+/* Track */
+
+inner-box::-webkit-scrollbar-track, .box-bg::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 5px grey;
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+}
+
+/* Handle */
+
+inner-box::-webkit-scrollbar-thumb, .box-bg::-webkit-scrollbar-thumb {
+    background: #000000;
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+
+inner-box::-webkit-scrollbar-thumb:hover, .box-bg::-webkit-scrollbar-thumb:hover {
+    background: #333333;
+}
+
+/* ====================================================
+1.5: Portfolio
+====================================================== */
+
+.right-border:after {
+    background-color: #999999;
+}
+
+.portfolio .card-columns .card .card-meta:after {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+/* ====================================================
+1.6: Testimonials
+====================================================== */
+
+.owl-theme .owl-controls .owl-page span {
+    background-color: #cccccc;
+}
+
+.owl-theme .owl-controls .owl-page.active span {
+    background-color: #054d32;
+}
+
+/* ====================================================
+1.7: Contact
+====================================================== */
+
+.contact form .form-control {
+    border: 1px solid #1a1a1a !important;
+}
+
+.contact form .form-control:focus {
+    border: 1px solid #1a1a1a !important;
+}
+
+/* ====================================================
+ 1.9: Sidenav
+====================================================== */
+
+.bg-overlay-nav {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.sidenav ul li a {
+    border-bottom: 1px solid #333333;
+}
+
+/* Track */
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+}
+
+/* Handle */
+
+::-webkit-scrollbar-thumb {
+    background: #000000;
+}
+
+/* Handle on hover */
+
+::-webkit-scrollbar-thumb:hover {
+    background: #000000;
+}

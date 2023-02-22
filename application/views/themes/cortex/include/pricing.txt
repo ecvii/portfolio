@@ -1,0 +1,110 @@
+<!-- pricing Starts  -->
+    <section class="section-padding pricing bg-white" id="pricing">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <div class="heading heading-margin">
+                        <div class="heading-absolute text-white-c sh-above"><span>Pr</span></div>
+                        <h1 class="sh-above2 position-relative"><span
+                                class="heading-border primary-color-border primary-color">Pricing</span> Tables</h1>
+                    </div><!-- end heading -->
+                    <p class="text-black-5 para-margin">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
+                        tenetur ratione quod.
+                    </p>
+                </div><!-- end column -->
+            </div><!-- end row -->
+            <div class="row">
+                <div class="col-lg col-md-6 col-sm-8 col-12 mx-auto mx-md-0">
+                    <div class="pricing-box text-center primary-border-e primary-border-eh">
+                        <div class="price bg-dark">
+                            <div class="plan text-white-e">
+                                <h4>Basic</h4>
+                            </div><!-- end plan -->
+                            <h1 class="display-4 fw-semi-bold my-1 primary-color">$200</h1>
+                            <h6 class="fw-regular text-white-e">Per Month</h6>
+                        </div><!-- end price -->
+                        <ul class="list-unstyled pricing-list my-4">
+                            <li>
+                                <p>Data 50GB</p>
+                            </li>
+                            <li>
+                                <p>2 Domains</p>
+                            </li>
+                            <li>
+                                <p>Client Testing</p>
+                            </li>
+                            <li>
+                                <p>Android App</p>
+                            </li>
+                            <li>
+                                <p>2 Users</p>
+                            </li>
+                        </ul>
+                        <a href="#" class="btn bg-primary-color on-bg-color bg-primary-borderh br0 mb-4 px-5">Buy
+                            Now</a>
+                    </div><!-- end pricing-box -->
+                </div><!-- end column -->
+                <div class="col-lg col-md-6 col-sm-8 col-12 mx-auto mx-md-0 mt-4 mt-md-0">
+                    <div class="pricing-box text-center primary-border-e primary-border-eh">
+                        <div class="price bg-dark">
+                            <div class="plan text-white-e">
+                                <h4>Standard</h4>
+                            </div>
+                            <h1 class="display-4 fw-semi-bold my-1 primary-color">$350</h1>
+                            <h6 class="fw-regular text-white-e">Per Month</h6>
+                        </div><!-- end price -->
+                        <ul class="list-unstyled pricing-list my-4">
+                            <li>
+                                <p>Data 350GB</p>
+                            </li>
+                            <li>
+                                <p>2 Domains</p>
+                            </li>
+                            <li>
+                                <p>Client Testing</p>
+                            </li>
+                            <li>
+                                <p>Android App</p>
+                            </li>
+                            <li>
+                                <p>2 Users</p>
+                            </li>
+                        </ul>
+                        <a href="#" class="btn bg-primary-color on-bg-color bg-primary-borderh br0 mb-4 px-5">Buy
+                            Now</a>
+                    </div><!-- end pricing-box -->
+                </div><!-- end column -->
+                <div class="col-lg col-md-6 col-sm-8 col-12 mx-auto mx-md-0 mt-4 mt-lg-0">
+                    <div class="pricing-box text-center primary-border-e primary-border-eh">
+                        <div class="price bg-dark">
+                            <div class="plan text-white-e">
+                                <h4>Premium</h4>
+                            </div><!-- end plan -->
+                            <h1 class="display-4 fw-semi-bold my-1 primary-color">$500</h1>
+                            <h6 class="fw-regular text-white-e">Per Month</h6>
+                        </div><!-- end price -->
+                        <ul class="list-unstyled pricing-list my-4">
+                            <li>
+                                <p>Data 500GB</p>
+                            </li>
+                            <li>
+                                <p>2 Domains</p>
+                            </li>
+                            <li>
+                                <p>Client Testing</p>
+                            </li>
+                            <li>
+                                <p>Android App</p>
+                            </li>
+                            <li>
+                                <p>2 Users</p>
+                            </li>
+                        </ul>
+                        <a href="#" class="btn bg-primary-color on-bg-color bg-primary-borderh br0 mb-4 px-5">Buy
+                            Now</a>
+                    </div><!-- end pricing-box -->
+                </div><!-- end column -->
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </section>
+    <!-- pricing Ends  -->

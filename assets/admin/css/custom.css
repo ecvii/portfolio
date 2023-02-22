@@ -1,0 +1,19 @@
+.login-page {background: rgb(223, 223, 223);}
+.login-logo { font-size: 3rem;}
+.login-logo { font-size: 3rem;}
+.img-thumb { max-height: 24px;}
+
+
+  
+  .img-thumb:hover {
+     -ms-transform: scale(3.5); /* IE 9 */
+    -webkit-transform: scale(3.5); /* Safari 3-8 */
+    transform: scale(3.5); 
+    z-index: 1;
+  }
+  .delete:hover {cursor:pointer;}
+  .change:hover {cursor:pointer;}
+  .img-thumb { max-height: 75px;}
+  .nav-icon { width: 40px !important; text-align: left !important;}
+  .img-size-100 { width: 100px; }
+  .img-size-125 { width: 125px; }
